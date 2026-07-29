@@ -81,9 +81,6 @@ JAVA-DSA
 - Loops
 - Conditional Statements
 - Functions
-- Arrays
-- Strings
-- Recursion
 
 ---
 
