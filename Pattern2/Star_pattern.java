@@ -1,4 +1,4 @@
-package Pattern;
+package Pattern2;
 import java.util.Scanner;
 public class Star_pattern {
     //  public static void diamond(int n){

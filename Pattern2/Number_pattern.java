@@ -1,4 +1,4 @@
-package Pattern;
+package Pattern2;
 import java.util.Scanner;
 
 public class Number_pattern {
