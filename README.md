@@ -89,9 +89,9 @@ JAVA-DSA
 
 ## ⭐ Pattern Printing
 
-- Star Patterns
-- Number Patterns
-- Alphabet Patterns
+✅ Star Patterns
+✅ Number Patterns
+✅ Alphabet Patterns
 - Pyramid
 - Hollow Patterns
 - Diamond Patterns
