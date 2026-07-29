@@ -2,16 +2,16 @@ package Pattern2;
 import java.util.Scanner;
 public class Alphabet{
 
-    public static void print(int n){
-        for(int i=1; i<=n; i++){
-            char ch = (char)('A'+n-i);
-            for(int j=1; j<=i; j++){
-                System.out.print(ch+" ");
-                ch++;
-            }
-            System.out.println();
-        }
-    }
+    // public static void print(int n){
+    //     for(int i=1; i<=n; i++){
+    //         char ch = (char)('A'+n-i);
+    //         for(int j=1; j<=i; j++){
+    //             System.out.print(ch+" ");
+    //             ch++;
+    //         }
+    //         System.out.println();
+    //     }
+    // }
     
     // public static void alphaAZ_reverse(int n){
     //     char ch = 'A';
@@ -41,7 +41,7 @@ public class Alphabet{
         int n = sc.nextInt();
         // alphaAZ(n);
         // alphaAZ_reverse(n);
-        print(n);
+        // print(n);
 
     }
 }
