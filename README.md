@@ -287,7 +287,7 @@ JAVA-DSA
 |-------|--------|
 | Java Basics | ✅ Completed |
 | Pattern Printing | ✅ Completed |
-| Recursion | ✅ Completed |
+| Recursion | ⏳ Completed |
 | Arrays | ⏳ In Progress |
 | Strings | ⏳ In Progress |
 | Searching | ⏳ In Progress |
