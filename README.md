@@ -1,96 +1,150 @@
 # 🚀 JAVA-DSA
 
-Welcome to my **Java Data Structures and Algorithms (DSA)** repository! 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/akash-dev11/JAVA-DSA?style=for-the-badge" />
+</p>
 
-This repository contains my complete journey of learning, practicing, and mastering **Data Structures and Algorithms using Java**. I regularly solve coding problems, implement various algorithms, and build a strong foundation for coding interviews, competitive programming, and software development.
-
----
-
-## 📚 About This Repository
-
-The goal of this repository is to:
-
-- Strengthen problem-solving skills.
-- Learn core Data Structures and Algorithms.
-- Practice Java programming concepts.
-- Prepare for coding interviews (Amazon, Google, Microsoft, Adobe, etc.).
-- Build consistency through daily coding practice.
-- Track my DSA learning progress.
+<p align="center">
+  <b>My complete Java Data Structures & Algorithms learning repository.</b><br>
+  Daily coding practice • Interview Preparation • Competitive Programming
+</p>
 
 ---
 
-## 🛠️ Programming Language
+# 📖 About
 
-- ☕ Java
+Welcome to my **JAVA-DSA** repository.
+
+This repository contains my complete journey of learning **Data Structures and Algorithms in Java**. I regularly solve coding problems, implement algorithms from scratch, and strengthen my problem-solving skills for software engineering interviews.
+
+This repository is continuously updated as I learn new topics and solve more problems.
 
 ---
 
-## 📂 Topics Covered
+# 🎯 Objectives
 
-### ✅ Java Basics
-- Variables & Data Types
+- 📚 Learn Java Programming
+- 💻 Master Data Structures
+- ⚡ Improve Problem Solving
+- 🧠 Learn Algorithms
+- 🎯 Crack Coding Interviews
+- 🚀 Build Daily Coding Habit
+- 📈 Track Learning Progress
+
+---
+
+# ☕ Programming Language
+
+- Java
+
+---
+
+# 📂 Repository Structure
+
+```
+JAVA-DSA
+│
+├── Java Basics
+├── Pattern Printing
+├── Recursion
+├── Arrays
+├── Strings
+├── Searching
+├── Sorting
+├── Bit Manipulation
+├── Mathematics
+├── Linked List
+├── Stack
+├── Queue
+├── Hashing
+├── Trees
+├── Heap
+├── Graph
+├── Dynamic Programming
+├── Backtracking
+└── README.md
+```
+
+---
+
+# 📚 Topics Covered
+
+## ✅ Java Basics
+
+- Variables
+- Data Types
 - Operators
 - Input & Output
-- Conditional Statements
 - Loops
-- Functions / Methods
+- Conditional Statements
+- Functions
 - Arrays
 - Strings
 - Recursion
 
 ---
 
-### ✅ Pattern Printing
+## ⭐ Pattern Printing
+
 - Star Patterns
 - Number Patterns
-- Pyramid Patterns
-- Diamond Patterns
-- Hollow Patterns
 - Alphabet Patterns
+- Pyramid
+- Hollow Patterns
+- Diamond Patterns
 
 ---
 
-### ✅ Recursion
+## 🔁 Recursion
+
 - Factorial
 - Fibonacci
 - Sum of Digits
 - Reverse Number
 - Palindrome
-- Power Function
+- Power
 - Recursive Pattern Problems
 
 ---
 
-### ✅ Arrays
+## 📦 Arrays
+
 - Traversal
-- Searching
-- Sorting
 - Prefix Sum
 - Kadane's Algorithm
-- Two Pointers
+- Two Pointer
 - Sliding Window
-- Binary Search on Arrays
+- Binary Search
+- Array Manipulation
 
 ---
 
-### ✅ Strings
-- String Manipulation
-- Palindrome Check
-- Character Frequency
+## 🔤 Strings
+
+- String Basics
 - StringBuilder
-- Anagrams
+- Palindrome
+- Frequency Count
+- Anagram
 - Pattern Matching
 
 ---
 
-### ✅ Searching Algorithms
+## 🔍 Searching
+
 - Linear Search
 - Binary Search
+- Lower Bound
+- Upper Bound
 - Binary Search Applications
 
 ---
 
-### ✅ Sorting Algorithms
+## 🔃 Sorting
+
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -100,25 +154,32 @@ The goal of this repository is to:
 
 ---
 
-### ✅ Bit Manipulation
-- Bitwise Operators
-- XOR Problems
+## ⚙️ Bit Manipulation
+
+- AND
+- OR
+- XOR
+- Left Shift
+- Right Shift
 - Set Bits
 - Power of Two
 - Bit Masking
 
 ---
 
-### ✅ Mathematics
-- Prime Numbers
-- GCD & LCM
-- Fast Exponentiation
+## 🧮 Mathematics
+
+- Prime Number
+- GCD
+- LCM
+- Fast Power
 - Modular Arithmetic
 - Sieve of Eratosthenes
 
 ---
 
-### ✅ Linked List
+## 🔗 Linked List
+
 - Singly Linked List
 - Doubly Linked List
 - Circular Linked List
@@ -127,66 +188,80 @@ The goal of this repository is to:
 
 ---
 
-### ✅ Stack
+## 📚 Stack
+
 - Stack using Array
 - Stack using Linked List
-- Balanced Parentheses
 - Next Greater Element
+- Balanced Parentheses
 
 ---
 
-### ✅ Queue
-- Simple Queue
+## 📥 Queue
+
+- Queue
 - Circular Queue
-- Priority Queue
 - Deque
+- Priority Queue
 
 ---
 
-### ✅ Hashing
+## 🗂 Hashing
+
 - HashMap
 - HashSet
 - Frequency Count
-- Common Problems
+- Common Hashing Problems
 
 ---
 
-### ✅ Trees
+## 🌳 Trees
+
 - Binary Tree
 - Binary Search Tree
+- DFS
+- BFS
 - Tree Traversals
-- Height & Diameter
+- Diameter
 - Lowest Common Ancestor
 
 ---
 
-### ✅ Heap
+## ⛰ Heap
+
 - Min Heap
 - Max Heap
-- Priority Queue Problems
+- Priority Queue
+- Heap Problems
 
 ---
 
-### ✅ Graphs
+## 🌐 Graph
+
 - BFS
 - DFS
 - Topological Sort
 - Shortest Path
+- MST
 - Disjoint Set Union (DSU)
 
 ---
 
-### ✅ Dynamic Programming
+## 💡 Dynamic Programming
+
 - Memoization
 - Tabulation
 - 1D DP
 - 2D DP
+- Knapsack
+- LIS
 - Classic DP Problems
 
 ---
 
-### ✅ Backtracking
-- N-Queens
+## 🔙 Backtracking
+
+- N Queens
 - Sudoku Solver
 - Rat in a Maze
 - Permutations
@@ -194,101 +269,88 @@ The goal of this repository is to:
 
 ---
 
-## 🎯 Repository Structure
-
-```
-JAVA-DSA/
-│
-├── Java Basics/
-├── Pattern Printing/
-├── Recursion/
-├── Arrays/
-├── Strings/
-├── Searching/
-├── Sorting/
-├── Bit Manipulation/
-├── Mathematics/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Hashing/
-├── Trees/
-├── Heap/
-├── Graph/
-├── Dynamic Programming/
-├── Backtracking/
-└── README.md
-```
-
----
-
-## 💻 Platforms
-
-Problems are practiced from:
+# 💻 Coding Platforms
 
 - LeetCode
 - GeeksforGeeks
 - HackerRank
 - Coding Ninjas
-- CodeStudio
 - InterviewBit
 - CodeChef
 - Codeforces
 
 ---
 
-## 🎯 Goals
+# 📈 Progress Tracker
 
-- 📌 Master Data Structures
-- 📌 Improve Algorithmic Thinking
-- 📌 Solve 500+ DSA Problems
-- 📌 Prepare for Placement Interviews
-- 📌 Strengthen Java Programming Skills
-- 📌 Build Consistency in Coding
-
----
-
-## 📈 Progress
-
-- ✅ Java Basics
-- ✅ Pattern Printing
-- ✅ Recursion
-- ⏳ Arrays
-- ⏳ Strings
-- ⏳ Linked List
-- ⏳ Stack
-- ⏳ Queue
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
+| Topic | Status |
+|-------|--------|
+| Java Basics | ✅ Completed |
+| Pattern Printing | ✅ Completed |
+| Recursion | ✅ Completed |
+| Arrays | ⏳ In Progress |
+| Strings | ⏳ In Progress |
+| Searching | ⏳ In Progress |
+| Sorting | ⏳ In Progress |
+| Linked List | ⏳ In Progress |
+| Stack | ⏳ In Progress |
+| Queue | ⏳ In Progress |
+| Trees | ⏳ In Progress |
+| Graph | ⏳ In Progress |
+| Dynamic Programming | ⏳ In Progress |
+| Backtracking | ⏳ In Progress |
 
 ---
 
-## 🤝 Contributions
+# 🎯 Goals
 
-This repository is primarily for my personal learning journey. However, suggestions, improvements, and discussions are always welcome!
-
-If you find any issue or have a better solution, feel free to open an Issue or submit a Pull Request.
+- ✅ Learn Core Java
+- ✅ Build Strong DSA Foundation
+- 🎯 Solve 500+ Problems
+- 🎯 Crack Placement Interviews
+- 🎯 Become Better Problem Solver
+- 🎯 Stay Consistent
 
 ---
 
-## ⭐ Support
+# 🤝 Contributing
 
-If you found this repository helpful:
+Although this repository is mainly for my personal learning journey, suggestions and improvements are always welcome.
+
+Feel free to:
 
 - ⭐ Star the repository
-- 🍴 Fork it
-- 💡 Share your suggestions
-- 🚀 Happy Coding!
+- 🍴 Fork the repository
+- 🐛 Open an Issue
+- 🔥 Submit a Pull Request
 
 ---
 
-## 👨‍💻 Author
+# 📌 Repository Stats
 
-**Akash Kumar**
-
-Passionate about Java, Data Structures & Algorithms, and continuously learning to become a better Software Engineer.
+- ✔️ Daily Updates
+- ✔️ Interview Preparation
+- ✔️ Java Based Solutions
+- ✔️ Beginner Friendly
+- ✔️ Clean Code
+- ✔️ Well Organized
 
 ---
 
-> *"Consistency is the key to mastering Data Structures and Algorithms. Solve one problem every day and keep improving!"* 🚀
+# 👨‍💻 Author
+
+## Akash Kumar
+
+Java Developer | DSA Enthusiast | Lifelong Learner
+
+---
+
+<div align="center">
+
+### ⭐ If you like this repository, don't forget to Star it!
+
+**Happy Coding 🚀**
+
+*"Consistency beats intensity. Solve one problem every day."*
+
+</div>
