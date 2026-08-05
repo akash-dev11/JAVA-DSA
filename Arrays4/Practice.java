@@ -1,3 +1,5 @@
+// import java.util.Arrays;
+
 import java.util.Arrays;
 
 public class Practice {
@@ -111,23 +113,23 @@ public class Practice {
     public static void main(String[] args){
 
     // first question    
-        // int arr[] ={2,3,5,9,14,16,18};
-        // System.out.println(ceilling_number(arr,15));
+        int arr[] ={2,3,5,9,14,16,18};
+        System.out.println(ceilling_number(arr,15));
     // Second question
-        // System.out.println(floor_number(arr,15));
+        System.out.println(floor_number(arr,15));
     
     // Third question
-        // char letters[] = {'c','f','j'};
-        // char target = 'a';
-        // System.out.println(Smallest_letter(letters, target));
+        char letters[] = {'c','f','j'};
+        char target = 'a';
+        System.out.println(Smallest_letter(letters, target));
     
     // fourth question
-        // int arr[] = {5,7,7,8,8,10};
-        // int target  = 8;
-        // System.out.println(Arrays.toString(checkRange(arr, target)));
+        int arr2[] = {5,7,7,8,8,10};
+        int target1  = 8;
+        System.out.println(Arrays.toString(checkRange(arr2, target1)));
 
     // fiveth
-        int arr[] = {1,2,3,5,7,6,3,2};
-        System.out.println(Peak_index(arr));    
+        int arr1[] = {1,2,3,5,7,6,3,2};
+        System.out.println(Peak_index(arr1));    
     }
 }
