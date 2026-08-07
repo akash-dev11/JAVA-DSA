@@ -1,4 +1,4 @@
-package Array2D;
+package ArrayD.Medium;
 
 public class Question {
     public static void  find(int mat[][]){

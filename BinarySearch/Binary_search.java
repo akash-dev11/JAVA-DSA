@@ -1,3 +1,4 @@
+package BinarySearch;
 import java.util.Arrays;
 
 public class Binary_search {

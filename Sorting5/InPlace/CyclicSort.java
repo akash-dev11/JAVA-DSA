@@ -1,4 +1,4 @@
-package Sorting5;
+package Sorting5.InPlace;
 
 public class CyclicSort {
     public static int Missing_number(int arr[]){

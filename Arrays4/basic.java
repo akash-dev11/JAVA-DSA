@@ -1,4 +1,4 @@
-// import java.util.Arrays;
+import java.util.Arrays;
 
 public class basic {
 
@@ -76,13 +76,13 @@ public class basic {
         System.out.println(Minimum_num(arr));
 
         int[][] matrix = {{12,23,44},{54,32,1,2},{65,43,34}};
-        int target = 1;
-        int ans[] = Search_in_2D(matrix, target);
+        int target1 = 1;
+        int ans[] = Search_in_2D(matrix, target1);
         System.out.println(Arrays.toString(ans));
 
-        int arr[] = {12,11,2,1234,5643};
+        int arr1[] = {12,11,2,1234,5643};
         int evencount = 0;
-        for(int i=0; i<arr.length; i++){
+        for(int i=0; i<arr1.length; i++){
             if(even(arr[i])){
                 evencount++;
             }

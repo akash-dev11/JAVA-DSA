@@ -1,3 +1,4 @@
+package Hard;
 public class Medium {
 
     public static int findPivot(int arr[]){

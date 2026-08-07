@@ -1,4 +1,4 @@
-package Sorting5;
+package Sorting5.InPlace;
 public class CountingSort {
 
     public static void Sort(int arr[]){

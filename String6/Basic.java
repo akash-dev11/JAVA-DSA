@@ -34,9 +34,9 @@ public class Basic {
        System.out.println((char)('a'+3));
        System.out.println("a"+3);  // Integer will be converted to Integer that will call toString()
        System.out.println("Akash"+new ArrayList<>());
-       System.out.println("Akash"+ new Integer(45));
-       String ans = new Integer(45) + "" + new ArrayList<>();
-       System.out.println(ans);
+    //    System.out.println("Akash"+ new Integer(45));
+    //    String ans = new Integer(45) + "" + new ArrayList<>();
+    //    System.out.println(ans);
 
     // String performance 
        String series = "";
