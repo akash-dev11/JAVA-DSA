@@ -1,5 +1,7 @@
-package Sorting5.InPlace;
+package Sorting5.InPlaceSorting;
 
+// Selection Sort => Selection Sort works by repeatedly finding the smallest element 
+// from the unsorted part of the array and putting it at the beginning.
 public class SelectionSort {
     public static void Sort(int arr[]){
         int n = arr.length;

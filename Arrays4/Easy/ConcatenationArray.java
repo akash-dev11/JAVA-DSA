@@ -1,8 +1,8 @@
-package Basic;
+package Easy;
 import java.util.Arrays;
 
-public class Easy {
-
+// 1929 problem number on leetcode
+public class ConcatenationArray {
     public static int[] concatation(int arr[]){
         int n = arr.length;
         int ans[] = new int[2*n];

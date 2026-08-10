@@ -1,5 +1,7 @@
-package Sorting5.InPlace;
+package Sorting5.InPlaceSorting;
 
+// Insertion => is like arranging playing cards in your hand. You take one element at a time 
+// and insert it into its correct position among the elements that are already sorted.
 public class insertion {
 
     static void sort(int arr[]){

@@ -1,5 +1,6 @@
-package Sorting5.InPlace;
+package Sorting5.InPlaceSorting;
 
+// Bubble Sort => It repeatedly compares two adjacent elements and swaps them if they are in the wrong order.
 public class BubbleSort {
     public static void Sort(int arr[]){
         int n = arr.length;

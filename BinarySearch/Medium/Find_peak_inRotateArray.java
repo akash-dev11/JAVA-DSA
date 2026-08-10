@@ -1,6 +1,7 @@
 package BinarySearch.Medium;
+// 33 problem number on leetcode
 
-public class Find_value {
+public class Find_peak_inRotateArray {
     static int pivot(int arr[]){
         int s =0;
         int e = arr.length-1;

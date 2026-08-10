@@ -1,4 +1,4 @@
-package Sorting5.InPlace;
+package Sorting5.InPlaceSorting;
 
 public class CyclicSort {
     public static void sort(int arr[]){
