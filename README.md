@@ -74,56 +74,56 @@ JAVA-DSA
 
 ##  Java Basics
 
-✅ Variables
-✅ Data Types
-✅ Operators
-✅ Input & Output
-✅ Loops
-✅ Conditional Statements
-✅ Functions
+- Variables ✅
+- Data Types ✅
+- Operators ✅
+- Input & Output ✅
+- Loops ✅
+- Conditional Statements ✅
+- Functions ✅
 
 ---
 
 ## ⭐ Pattern Printing
 
-✅ Star Patterns
-✅ Number Patterns
-✅ Alphabet Patterns
-✅ Pyramid
-✅ Hollow Patterns
-✅ Diamond Patterns
+- Star Patterns ✅
+- Number Patterns ✅
+- Alphabet Patterns ✅
+- Pyramid ✅
+- Hollow Patterns ✅
+- Diamond Patterns ✅
 
 ---
 
 ## 🔁 Recursion
 
-✅ Factorial
-✅ Fibonacci
-✅ Sum of Digits
-✅ Reverse Number
-✅ Palindrome
-✅ Power
-✅ Recursive Pattern Problems
+- Factorial ✅
+- Fibonacci ✅
+- Sum of Digits ✅ 
+- Reverse Number ✅
+- Palindrome ✅
+- Power ✅
+- Recursive Pattern Problems ✅
 
 ---
 
 ## 📦 Arrays
 
-✅ Traversal
+- Traversal ✅
 - Prefix Sum
 - Kadane's Algorithm
-✅ Two Pointer
+- Two Pointer ✅
 - Sliding Window
-✅ Binary Search
-✅ Array Manipulation
+- Binary Search ✅
+- Array Manipulation ✅
 
 ---
 
 ## 🔤 Strings
 
-✅ String Basics
-✅ StringBuilder
-✅ Palindrome
+- String Basics ✅
+- StringBuilder ✅
+- Palindrome ✅
 - Frequency Count
 - Anagram
 - Pattern Matching
@@ -132,22 +132,22 @@ JAVA-DSA
 
 ## 🔍 Searching
 
-✅ Linear Search
-✅ Binary Search
-- Lower Bound
-- Upper Bound
-✅ Binary Search Applications
+- Linear Search ✅
+- Binary Search ✅
+- Lower Bound ✅
+- Upper Bound ✅
+- Binary Search Applications ✅
 
 ---
 
 ## 🔃 Sorting
 
-✅ Bubble Sort
-✅ Selection Sort
-✅ Insertion Sort
-- Merge Sort
-- Quick Sort
-✅ Counting Sort
+- Bubble Sort ✅
+- Selection Sort ✅
+- Insertion Sort ✅
+- Merge Sort ✅
+- Quick Sort ✅
+- Counting Sort ✅
 
 ---
 
@@ -284,11 +284,11 @@ JAVA-DSA
 |-------|--------|
 | Java Basics | ✅ Completed |
 | Pattern Printing | ✅ Completed |
-| Recursion | ⏳ Completed |
-| Arrays | ⏳ In Progress |
-| Strings | ⏳ In Progress |
-| Searching | ⏳ In Progress |
-| Sorting | ⏳ In Progress |
+| Recursion | ✅ Completed |
+| Arrays | ✅ In Progress |
+| Strings | ✅ In Progress |
+| Searching | ✅ In Progress |
+| Sorting | ✅ In Progress |
 | Linked List | ⏳ In Progress |
 | Stack | ⏳ In Progress |
 | Queue | ⏳ In Progress |
