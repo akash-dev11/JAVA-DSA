@@ -1,7 +1,5 @@
 package LinkedList9;
 
-
-
 class Node{
     int value;
     Node next;
@@ -34,9 +32,5 @@ public class basic {
         System.out.println(b);
         System.out.println(a.next);
         System.out.println(a.next.next);
-
-
-        
-        
     }
 }

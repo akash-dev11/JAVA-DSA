@@ -1,6 +1,4 @@
 package LinkedList9;
-
-
 class Node{
     int value;
     Node next;
@@ -34,6 +32,7 @@ public class Display {
             temp =  temp.next;
         }
     }
+
     public static void main(String[] args) {
         Node a = new Node(10); 
         Node b = new Node(20);
