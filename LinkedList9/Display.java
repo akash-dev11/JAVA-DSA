@@ -1,4 +1,4 @@
-package LinkedList9;
+
 class Node{
     int value;
     Node next;
@@ -6,7 +6,6 @@ class Node{
         this.value = value;
     }
 }
-
 public class Display {
 
     public static int get(Node head,int inx){

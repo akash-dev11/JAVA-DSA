@@ -1,4 +1,4 @@
-package LinkedList9;
+package Basic;
 
 class Node2 {
     int data;

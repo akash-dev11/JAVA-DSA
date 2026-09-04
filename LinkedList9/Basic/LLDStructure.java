@@ -1,20 +1,19 @@
-package LinkedList9;
+package Basic;
 
-class Node{  // user defined data type
+class Node1{
     int value;
-    Node next;
-    Node(int value){
+    Node1 next;
+    Node1(int value){
         this.value = value;
     }
 }
-
 class Linkedlist {  // user defined data structure
-    Node head;  // null
-    Node tail;  // null
+    Node1 head;  // null
+    Node1 tail;  // null
     int size;
 
     int Search(int val){
-        Node tem = head;
+        Node1 tem = head;
         if(tem==null){
             return -1;
         }
@@ -39,7 +38,7 @@ class Linkedlist {  // user defined data structure
     }
 
     void addAtHead(int val){
-        Node temp = new Node(val);
+        Node1 temp = new Node1(val);
         if(head==null){
             head=tail=temp;
         }
@@ -51,7 +50,7 @@ class Linkedlist {  // user defined data structure
     }
 
     void addAtTail(int val){
-        Node temp = new Node(val);
+        Node1 temp = new Node1(val);
         if(tail==null){
             head = tail = temp;
         }
@@ -66,7 +65,7 @@ class Linkedlist {  // user defined data structure
         if(head==null){
             return;
         }
-        Node temp = head;
+        Node1 temp = head;
         while(temp!=null){
             System.out.print(temp.value+" ");
             temp = temp.next;

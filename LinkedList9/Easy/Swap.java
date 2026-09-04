@@ -1,4 +1,4 @@
-package LinkedList9.Easy;
+package Easy;
 
 class node{
     int data;
@@ -7,7 +7,6 @@ class node{
         this.data = data;
     }
 }
-
 class linkedlist {
     node head;
 

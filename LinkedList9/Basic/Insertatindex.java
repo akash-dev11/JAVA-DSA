@@ -1,18 +1,8 @@
-package LinkedList9;
-
-class Node{
-    int value;
-    Node next;
-    Node(int value){
-        this.value = value;
-    }
-}
-
+package Basic;
 class insert{
     Node head;
     Node tail;
     int size;
-
     void addatIndex(int val, int ind){
         if(ind<0 || ind>size){
             System.out.println("Invalid index");
