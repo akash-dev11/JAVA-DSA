@@ -26,14 +26,42 @@ public class Reverse {
         head = arr.get(n-1);
         return  head;
     }
+    static Node1 Rever(Node1 head){
+        Node1 pre = null;
+        Node1 cur = head;
+        Node1 fw = null;
+        while (cur != null) {
+            fw = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = fw;
+        }
+        return pre;
+    }
+
+    static Node1 recurson(Node1 head){
+        if(head.next == null || head == null){
+            return  head;
+        }
+        Node1 a = head.next;
+        head.next = null;
+        Node1 b = recurson(a);
+        a.next = head;
+        return  b;
+    }
     public static void main(String[] args) {
         Node1 list1 = new Node1(1);
         list1.next = new Node1(3);
         list1.next.next = new Node1(5);
         list1.next.next.next = new  Node1(10);
-        Node1 head = reverse(list1);
-        Node1 temp = head;
+        // Node1 head = reverse(list1);
+        // Node1 temp = head;
 
+        // Node1 head = Rever(list1);
+        // Node1 temp = head;
+
+        Node1 head = reverse(list1);
+        Node1 temp = head;   
         
         while(temp!=null){
             System.out.print(temp.data+" ");
