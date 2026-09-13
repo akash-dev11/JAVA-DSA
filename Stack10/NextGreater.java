@@ -1,5 +1,8 @@
 package Stack10;
 
+import java.util.ArrayList;
+import java.util.Stack;
+
 public class NextGreater {
     
     public ArrayList<Integer> nextLargerElement(int[] arr1) {
