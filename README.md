@@ -125,7 +125,7 @@ JAVA-DSA
 - StringBuilder ✅
 - Palindrome ✅
 - Frequency Count
-- Anagram
+- Anagram ✅
 - Pattern Matching
 
 ---
@@ -177,37 +177,37 @@ JAVA-DSA
 
 ## 🔗 Linked List
 
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
-- Reverse Linked List
-- Cycle Detection
+- Singly Linked List ✅
+- Doubly Linked List ✅
+- Circular Linked List ✅
+- Reverse Linked List ✅
+- Cycle Detection ✅
 
 ---
 
 ## 📚 Stack
 
-- Stack using Array
-- Stack using Linked List
-- Next Greater Element
-- Balanced Parentheses
+- Stack using Array ✅
+- Stack using Linked List ✅
+- Next Greater Element ✅
+- Balanced Parentheses ✅
 
 ---
 
 ## 📥 Queue
 
-- Queue
-- Circular Queue
-- Deque
-- Priority Queue
+- Queue ✅
+- Circular Queue ✅
+- Deque ✅
+- Priority Queue ✅
 
 ---
 
 ## 🗂 Hashing
 
-- HashMap
-- HashSet
-- Frequency Count
+- HashMap ✅
+- HashSet ✅
+- Frequency Count ✅
 - Common Hashing Problems
 
 ---
@@ -289,9 +289,9 @@ JAVA-DSA
 | Strings | ✅ In Progress |
 | Searching | ✅ In Progress |
 | Sorting | ✅ In Progress |
-| Linked List | ⏳ In Progress |
-| Stack | ⏳ In Progress |
-| Queue | ⏳ In Progress |
+| Linked List | ✅ In Progress |
+| Stack | ✅ In Progress |
+| Queue | ✅ In Progress |
 | Trees | ⏳ In Progress |
 | Graph | ⏳ In Progress |
 | Dynamic Programming | ⏳ In Progress |
